@@ -3,7 +3,7 @@
 Extremely flexible algorithm because can be used in linear and/or polynomial functions.
 
 
-#### Topics to Cover
+#### Topics
 - Linear SVM Classification
 - Polynomial Kernal
 - Radial Basis Function
